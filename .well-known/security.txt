@@ -1,0 +1,5 @@
+Contact: mailto:digitaldefense.ai@gmail.com
+Contact: https://github.com/digitaldefenseai/legal/issues
+Expires: 2026-12-31T23:59:59Z
+Preferred-Languages: pt-BR, en
+Policy: https://digitaldefenseai.github.io/legal/privacy.html
