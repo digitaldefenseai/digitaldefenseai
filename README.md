@@ -1,16 +1,21 @@
-## Hi there 👋
+# Defense.AI
 
-<!--
-**digitaldefenseai/digitaldefenseai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apps de segurança anti-golpes e proteção digital para o dia a dia.  
+**Stack:** Flutter • Android/iOS • Produto & Monetização
 
-Here are some ideas to get you started:
+- 🔰 **Missão:** reduzir fraudes e golpes digitais no Brasil com apps simples, rápidos e acessíveis.
+- 📱 **Plataformas:** Android e iOS
+- ✉️ **Contato:** digitaldefense.ai@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Documentos legais
+- Política de Privacidade → https://digitaldefenseai.github.io/legal/privacy.html
+- Termos de Uso → https://digitaldefenseai.github.io/legal/terms.html
+- Suporte / Contato → https://digitaldefenseai.github.io/legal/support.html
+
+## Status do projeto
+- ✅ Fase atual: **Infra legal + base do app**
+- 🎯 Próximos passos: Monetização (IAP), AdMob prod, UMP (GDPR/EEA), testes iOS (ATT+ads)
+
+---
+
+> © Defense.AI — segurança prática contra golpes digitais.
