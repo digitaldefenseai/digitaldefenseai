@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://digitaldefenseai.github.io/legal/sitemap.xml
